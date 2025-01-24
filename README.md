@@ -5,15 +5,15 @@
 <div align="center">
 [https://sites.google.com/view/msvaishnavipatil-portfolio/home]<br>
 It provides a deeper look into who I am, what I’ve worked on, and how I can contribute to tech projects.
-</div>
+</div><br>
 
 
-<br><br><img align="left" height="150" src="https://media.giphy.com/media/Q9mCcTXeps3QJxbd2h/giphy.gif?cid=790b7611kezu9lyg2454zehys6jy31sroujkpn5whv5ql40f&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="300" width="1000" src="GitHubBanner.png"/><br><br>
 
 ###
 
 <div align="center">
-  
+  <img align="left" height="150" src="https://media.giphy.com/media/Q9mCcTXeps3QJxbd2h/giphy.gif?cid=790b7611kezu9lyg2454zehys6jy31sroujkpn5whv5ql40f&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <h3 align="center">🛠 Tech ToolBox & Links</h3><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -61,10 +61,18 @@ It provides a deeper look into who I am, what I’ve worked on, and how I can co
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first line of code.<br>👩‍💻 A lifelong learner, problem solver, creator, bug resolver.<br>📚 I'm currently pursuing my MCA through distance learning from University of Mumbai. <br>Alongside, I'm doing a stipend-based internship, where I’m working with ActionScript to develop kids' apps.<br>🎯 Goals: My goal is to contribute to various projects. I aspire to become part of an IT scholar's community and collaborate on impactful tech projects.<br>🎲 Fun fact: I enjoy working on creative projects and am always excited to explore new technologies!</p>
+<p align="left">- ✨ Creating bugs since I wrote my first line of code.<br>- 👩‍💻 A lifelong learner, problem solver, creator, bug resolver.<br>- 📚 I'm currently pursuing my MCA through distance learning from University of Mumbai. <br>Alongside, I'm doing a stipend-based internship, where I’m working with ActionScript to develop kids' apps.<br>- 🎯 Goals: My goal is to contribute to various projects. I aspire to become part of an IT scholar's community and collaborate on impactful tech projects.<br>- 🎲 Fun fact: I enjoy working on creative projects and am always excited to explore new technologies!</p><br><br>
 
 ###
 
 
+<h1 align="center">🌟What I’m Up To Me</h1>
+
 ###
+
+<p align="left">- 🧠 Exploring & Learning ActionScript and improving my Data Structures and Algorithms skills.<br>
+- 🤝 Contributing to open-source projects to grow as a developer.<br>
+- 👩‍🏫 Mentoring juniors in coding and Git basics.<br>
+- 💡 Becoming a software engineer at a leading tech company.<br>
+- ✍️ Writing tech blogs to share my learning journey.</p>
 
