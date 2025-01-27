@@ -65,14 +65,36 @@ It provides a deeper look into who I am, what I’ve worked on, and how I can co
 
 ###
 
-
-<h1 align="center">🌟What I’m Up To Me</h1>
+<h1 align="center">👨‍💻 Tools & IDEs I Use for Coding</h1><p align="center">Here are the tools, software, and technologies I use to develop, debug, and create amazing projects:</p>
 
 ###
 
-<p align="left">- 🧠 Exploring & Learning ActionScript and improving my Data Structures and Algorithms skills.<br>
-- 🤝 Contributing to open-source projects to grow as a developer.<br>
-- 👩‍🏫 Mentoring juniors in coding and Git basics.<br>
-- 💡 Becoming a software engineer at a leading tech company.<br>
-- ✍️ Writing tech blogs to share my learning journey.</p>
+## 🖥️ **Development Tools**
+- **Dev C++** – For lightweight C++ development.  
+- **Turbo C++** – For classic C++ programming.  
+- **Visual Studio Code** – My go-to code editor for most projects.  
+- **IntelliJ IDEA** – For Java and Kotlin development.  
+- **PyCharm** – For Python development.  
+- **Eclipse IDE** – For Java.  
 
+###
+
+## 🛠️ **Version Control & Collaboration**
+- **Git** – For version control.  
+- **GitHub** – To host and collaborate on projects.
+  
+###
+
+## ⚙️ **Frameworks & Frontend Technologies**
+- **React.js** 
+- **Spring Boot** 
+- **Bootstrap**
+
+###
+
+## 🛢️ **Databases & Other Tools**
+- **MySQL Workbench** – For managing MySQL databases.  
+- **Postman** – For API testing.
+- **Notion** – For note-taking and organization.
+  
+###
