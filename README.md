@@ -61,7 +61,7 @@ It provides a deeper look into who I am, what I’ve worked on, and how I can co
 
 ###
 
-<p align="left">- ✨ Creating bugs since I wrote my first line of code.<br>- 👩‍💻 A lifelong learner, problem solver, creator, bug resolver.<br>- 📚 I'm currently pursuing my MCA through distance learning from University of Mumbai. <br>Alongside, I'm doing a stipend-based internship, where I’m working with ActionScript to develop kids' apps.<br>- 🎯 Goals: My goal is to contribute to various projects. I aspire to become part of an IT scholar's community and collaborate on impactful tech projects.<br>- 🎲 Fun fact: I enjoy working on creative projects and am always excited to explore new technologies!</p><br><br>
+<p align="left">- ✨ Creating bugs since I wrote my first line of code.<br>- 👩‍💻 A lifelong learner, problem solver, creator, bug resolver.<br>- 📚 I'm currently pursuing my MCA from University of Mumbai. <br>Alongside, I'm doing a stipend-based internship, where I’m working with ActionScript to develop kids' apps.<br>- 🎯 Goals: My goal is to contribute to various projects. I aspire to become part of an IT scholar's community and collaborate on impactful tech projects.<br>- 🎲 Fun fact: I enjoy working on creative projects and am always excited to explore new technologies!</p><br><br>
 
 ###
 
