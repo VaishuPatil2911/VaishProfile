@@ -70,12 +70,13 @@ It provides a deeper look into who I am, what I’ve worked on, and how I can co
 ###
 
 ## 🖥️ **Development Tools**
-- **Dev C++** – For lightweight C++ development.  
-- **Turbo C++** – For classic C++ programming.  
+- **Dev C++** – For lightweight C & C++ development.  
+- **Turbo C++** – For classic C & C++ programming.  
 - **Visual Studio Code** – My go-to code editor for most projects.  
-- **IntelliJ IDEA** – For Java and Kotlin development.  
-- **PyCharm** – For Python development.  
-- **Eclipse IDE** – For Java.  
+- **IntelliJ IDEA** **&** **Notepad** – For Java development.
+- **Adobe** **Animate** **2023** – For Game development using ActionScript.  
+- **PyCharm** **&** **Python** – For Python development.  
+- **Eclipse IDE** **&** **NetBeans** – For Java.  
 
 ###
 
